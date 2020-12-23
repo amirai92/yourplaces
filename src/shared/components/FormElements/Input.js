@@ -21,18 +21,18 @@ const inputReducer = (state, action) => {
       return state;
   }
 };
-
 const Input = (props) => {
   const [inputState, dispatch] = useReducer(inputReducer, {
-    value: "",
+    value: props.initialValue || "",
     isTouched: false,
-    isValid: false,
+    isValid: props.initialValid || false,
   });
+
   const { id, onInput } = props;
   const { value, isValid } = inputState;
 
   useEffect(() => {
-    props.onInput(props.id, inputState.value, inputState.isValid);
+    onInput(id, value, isValid);
   }, [id, value, isValid, onInput]);
 
   const changeHandler = (event) => {

@@ -19,7 +19,7 @@ const DUMMY_PLACES = [
   },
   {
     id: "p2",
-    title: "Western Wall",
+    title: "Western ",
     description: "Holy place,people from all over the world come to visit",
     imageUrl:
       "https://www.itraveljerusalem.com/wp-content/uploads/2016/07/atr-western-wall-2.jpg",

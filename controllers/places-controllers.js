@@ -50,7 +50,7 @@ const getPlacesByUserId = async (req, res, next) => {
   // if (!places || places.length === 0) {
   if (!userWithPlaces || userWithPlaces.places.length === 0) {
     return next(
-      new HttpError("Could not find places for the provided user id.", 404)
+      new HttpError("Could not find places for the provided user.", 404)
     );
   }
 
@@ -188,6 +188,7 @@ const deletePlace = async (req, res, next) => {
   }
 
   const imagePath = place.image;
+
   try {
     const sess = await mongoose.startSession();
     sess.startTransaction();

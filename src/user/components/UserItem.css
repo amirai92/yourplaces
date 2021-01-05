@@ -17,11 +17,11 @@
 
 .user-item a:hover,
 .user-item a:active {
-  background: #ffd900;
+  background: #696969;
 }
 
 .user-item__content {
-  padding: 0;
+  padding: 0 !important;
 }
 
 .user-item__image {
@@ -34,7 +34,7 @@
   font-size: 1.5rem;
   margin: 0 0 0.5rem 0;
   font-weight: normal;
-  color: #ffd900;
+  color: #deb887;
 }
 
 .user-item:hover h2,

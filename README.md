@@ -7,12 +7,12 @@ IMPORTANT: The application is set on the Heroku server, Heroku has an “epheme
 
 <b>Technologies:</b><br></br>
 React Hooks - Using functional components<br></br>
-Node-JS -Backend<br></br>
+Node-JS - Backend<br></br>
 Express - A framework for Node-js<br></br>
-Mongo-DB - database.<br></br>
-Google Maps API- Using Geolocation inside the browser<br></br>
-Firebase- Frontend hosting<br></br>
-Heroku- Backend Hosting<br></br>
+Mongo-DB - Database.<br></br>
+Google Maps API - Using Geolocation inside the browser<br></br>
+Firebase - Frontend hosting<br></br>
+Heroku - Backend Hosting<br></br>
 
 
 <b>DEPLOY:</b><br></br>

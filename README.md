@@ -11,7 +11,6 @@ Node-JS - Backend<br></br>
 Express - A framework for Node-js<br></br>
 Mongo-DB - Database.<br></br>
 Google Maps API - Using Geolocation inside the browser<br></br>
-Firebase - Frontend hosting<br></br>
 Heroku - Backend Hosting<br></br>
 
 

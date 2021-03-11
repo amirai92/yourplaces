@@ -18,8 +18,13 @@ AWS S3 - Static files
 
 
 <b>DEPLOY:</b><br></br>
+You can view a live demo over at:
 https://your-places-amir.herokuapp.com/
 
+To get the frontend running locally:
+Clone this repo
+npm install to install all req'd dependencies
+npm start to start the local server (this project uses create-react-app)
 
 ![yourplaces](https://user-images.githubusercontent.com/34741493/107676863-4995fc00-6ca2-11eb-85df-15a3a7ab4a0e.JPG)
 

@@ -8,7 +8,7 @@ Client-side – developed in React.Js using hooks, context API. The system also 
 <b>Overview:</b>
 Places are an exciting new way for people to find new places in their vicinity. The goal is to allow people to effortlessly find what they are looking for regardless of where they are,<br> If is there any place you visited recently and would like to recommend whether it’s a restaurant to have ordered take away (COVID-19) or the nearest ATM.<br>This gives people the power to explore new places when traveling abroad or find specific locations when out of town.<br>
 IMPORTANT: The application is set on the Heroku server, Heroku has an “ephemeral” hard drive that is automatically restarted (once every 24 hours). I would love it if you would report any bugs you encountered while using the application.<br>
-<b>email:</b> amiraizin20@gmail.com
+<b>email:</b> [a link](amiraizin20@gmail.com)
 <br>
 
 <br><b>Technologies:</b><br>

@@ -1,10 +1,10 @@
 <b>Your Places</b>
 
 <b>
-•Server-Side - created with Express and Node.Js, communication between the servers is done using REST (CRUD), the Servers maintain a DB created with MongoDB and Mongoose and also in JSON files, used AWS for storing images.
+•Server-Side - created with Express and Node.Js, communication between the servers is done using REST (CRUD), the Servers maintain a DB created with MongoDB and Mongoose and also in JSON files, used AWS for storing images.<br></br>
 •	Client-side – developed in React.Js using hooks, context API. The system also includes permissions management
 </b><br></br>
-
+<br></br>
 <b>Overview:</b><br></br>
 Places are an exciting new way for people to find new places in their vicinity. The goal is to allow people to effortlessly find what they are looking for regardless of where they are,<br></br> If is there any place you visited recently and would like to recommend whether it’s a restaurant to have ordered take away (COVID-19) or the nearest ATM.<br></br>This gives people the power to explore new places when traveling abroad or find specific locations when out of town.<br></br>
 IMPORTANT: The application is set on the Heroku server, Heroku has an “ephemeral” hard drive that is automatically restarted (once every 24 hours). I would love it if you would report any bugs you encountered while using the application.<br></br>

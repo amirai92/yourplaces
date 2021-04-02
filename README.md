@@ -10,7 +10,7 @@ Places are an exciting new way for people to find new places in their vicinity. 
 IMPORTANT: The application is set on the Heroku server, Heroku has an “ephemeral” hard drive that is automatically restarted (once every 24 hours). I would love it if you would report any bugs you encountered while using the application.<br>
 <b>email:</b> amiraizin20@gmail.com 
 
-<b>Technologies:</b><br></br>
+<b>Technologies:</b><br>
 React Hooks - Using functional components<br></br>
 Node-JS - Backend<br></br>
 Express - A framework for Node-js<br></br>

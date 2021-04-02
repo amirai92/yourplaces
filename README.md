@@ -11,7 +11,7 @@ IMPORTANT: The application is set on the Heroku server, Heroku has an “epheme
 <b>email:</b> amiraizin20@gmail.com 
 <br>
 
-<b>Technologies:</b><br>
+<br><b>Technologies:</b><br>
 React Hooks - Using functional components<br>
 Node-JS - Backend<br>
 Express - A framework for Node-js<br>
@@ -24,7 +24,6 @@ AWS S3 - Static files<br>
 <b>DEPLOY:</b><br></br>
 You can view a live demo over at:
 https://your-places-amir.herokuapp.com/
-
 To get the frontend running locally:
 Clone this repo
 npm install to install all req'd dependencies

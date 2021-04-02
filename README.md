@@ -1,8 +1,8 @@
 <b>Your Places</b>
 
 <b>
-•Server-Side - created with Express and Node.Js, communication between the servers is done using REST (CRUD), the Servers maintain a DB created with MongoDB and Mongoose and also in JSON files,AWS for storing images.<br>
-•	Client-side – developed in React.Js using hooks, context API. The system also includes permissions management
+Server-Side - created with Express and Node.Js, communication between the servers is done using REST (CRUD), the Servers maintain a DB created with MongoDB and Mongoose and also in JSON files,AWS for storing images.<br>
+Client-side – developed in React.Js using hooks, context API. The system also includes permissions management
 </b><br></br>
 <br></br>
 <b>Overview:</b>
